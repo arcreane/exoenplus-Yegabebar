@@ -22,7 +22,7 @@ public class Main {
                     Exo1.guessANumber();
                     break;
                 case 2:
-
+                    Exo2.palindrome();
                     break;
                 case 3:
 
