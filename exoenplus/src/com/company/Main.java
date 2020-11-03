@@ -25,7 +25,7 @@ public class Main {
                     Exo2.palindrome();
                     break;
                 case 3:
-
+                    Exo3.table();
                     break;
                 case 4:
 
